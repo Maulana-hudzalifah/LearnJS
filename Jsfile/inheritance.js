@@ -37,7 +37,7 @@ const hawk   = new Hawk();
 
 
 
-console.log(rabbit.alive);
-rabbit.eat();
+console.log(fish.alive);
+fish.eat();
 rabbit.sleep();
-rabbit.run();
+hawk.fly();
